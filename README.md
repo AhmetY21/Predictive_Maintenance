@@ -1,4 +1,4 @@
-# Predictive_Maintenance
+# Predictive Maintenance
 
 This is the project that conducted by Bosch Bursa factory and the METU IE department. Aim of the project is the build predictive maintenance application in the Bosch.In this repo one can find the necessary tools for analysing vibration signal for applying predictive maintenance
 
